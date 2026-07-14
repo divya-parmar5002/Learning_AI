@@ -1,4 +1,15 @@
 # 🚀 Day 02 – Understanding System Role & Temperature
+## 📚 Concepts Covered
+
+- System Role
+- User Role
+- AI Behavior Control
+- Prompt Engineering (Introduction)
+- Temperature
+- Creativity vs Determinism
+- Message Order
+- Multiple Messages
+- Chat Completion Parameters
 
 ## 🎯 Learning Objective
 

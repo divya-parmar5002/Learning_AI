@@ -1,5 +1,26 @@
 # 🚀 Day 01 - AI Engineering Journey
+## 📚 Concepts Covered
 
+- Environment Setup
+- UV Package Manager
+- Virtual Environment
+- Groq API
+- API Keys
+- .env File
+- Environment Variables
+- Groq Client
+- Large Language Models (LLMs)
+- Model Selection
+- User Role
+- Assistant Role
+- System Role (Introduction)
+- Conversation Context
+- Prompt
+- Messages
+- Chat Completions API
+- Response Object
+- Choices
+- Usage
 ## 🎯 Objective
 
 The goal of Day 01 was to set up the AI development environment and understand how an application communicates with a Large Language Model (LLM) using the Groq API.

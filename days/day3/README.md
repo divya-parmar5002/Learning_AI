@@ -1,10 +1,22 @@
 # 🚀 Day 03 – Understanding Tokens & Token Usage in Large Language Models (LLMs)
 
+
 > 📅 **Learning Day:** 03
 > 🎯 **Topic:** Tokens, Tokenization, Prompt Tokens, Completion Tokens, Total Tokens, Token Usage
 
 ---
+## 📚 Concepts Covered
 
+- Tokens
+- Prompt Tokens
+- Completion Tokens
+- Total Tokens
+- Tokenization
+- max_tokens
+- Usage Object
+- Finish Reason
+- Token Cost
+- Context Window (Introduction)
 # 🎯 Learning Objective
 
 On Day 03, I learned one of the most important concepts used in every Large Language Model (LLM): **Tokens**.
