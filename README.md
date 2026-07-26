@@ -2,7 +2,7 @@
 
 Welcome to my **Learning AI** repository!
 
-This repository is a collection of my daily learning journey into Artificial Intelligence. Instead of uploading everything to a single branch, I create a **new branch for each learning session**, making it easy to track my progress over time.
+This repository is a collection of my daily learning journey into Artificial Intelligence.
 
 ## 🎯 Purpose
 
@@ -22,31 +22,6 @@ This repository serves as my personal learning journal where I document:
 * Tools and Frameworks
 * Experiments and Practice Projects
 * Notes and Code Examples
-
----
-
-## 📂 Repository Structure
-
-The **main branch** contains only this README.
-
-Every learning session is pushed to a **separate branch**.
-
-Example:
-
-```
-main
-├── README.md
-
-day-01
-day-02
-day-03
-day-04
-...
-```
-
-Each branch represents what I learned on that particular day.
-
----
 
 ## 📖 Learning Philosophy
 
@@ -80,16 +55,6 @@ Rather than rushing through tutorials, I focus on:
 
 This list will continue to grow as I progress.
 
----
-
-## 📅 Progress
-
-I regularly add new branches as I learn new concepts.
-
-Every branch reflects a snapshot of my learning journey.
-
----
-
 ## 🌱 Why This Repository?
 
 This repository helps me:
@@ -110,6 +75,6 @@ This repository is primarily for my personal learning, but suggestions, feedback
 
 ## ⭐ Thank You
 
-If you find this repository helpful or enjoy following my learning journey, feel free to explore the branches and check out the progress.
+If you find this repository helpful or enjoy following my learning journey, feel free to explore and check out the progress.
 
 Happy Learning! 🚀
